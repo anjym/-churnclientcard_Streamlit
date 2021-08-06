@@ -1,3 +1,4 @@
+## Pour ouvrir l'application en local
 -l'environnement étant deja opérationnel, 
 1) installer streamlit sur votre machine,
 2) installer les dependances necessaire : pandas,sklearn,numpy
@@ -5,4 +6,4 @@
 4) lancer streamlit run churnclient.py pour avoir accès a l'application 
 
 
-NB: déploiement en cours sur heroku
+NB: déploiement  sur heroku : https://clientchurn-streamlit.herokuapp.com
